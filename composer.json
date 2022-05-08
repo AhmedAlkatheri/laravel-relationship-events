@@ -1,7 +1,7 @@
 {
     "name": "AhmedAlkatheri/laravel-relationship-events",
     "description": "Missing relationship events for Laravel",
-    "homepage": "https://github.com/chelout/laravel-relationship-events",
+    "homepage": "https://github.com/AhmedAlkatheri/laravel-relationship-events",
     "license": "MIT",
     "keywords": [
         "laravel",
